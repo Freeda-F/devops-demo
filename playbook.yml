@@ -1,3 +1,4 @@
 - install apache
 - restart and enable apache
 - create virtual host
+- install and enable PHP
