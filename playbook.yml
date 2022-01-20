@@ -2,3 +2,4 @@
 - restart and enable apache
 - create virtual host
 - install and enable PHP
+- Install mariaDB
